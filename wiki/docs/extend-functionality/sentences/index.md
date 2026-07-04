@@ -19,7 +19,7 @@ We encourage everyone to share their creations so that others might enjoy what y
 | [Locate a Person](sentences/locate-a-person)                    | Ask for the location of a family member and see it displayed on a map                 | en, ca, de, es, it, pl                              |
 | [Play Music with Music Assistant](sentences/play-music-with-ma) | Play your music media using Music Assistant                                           | en, ca, de, es, it, nl, pl, pt, ro                  |
 | [Play Radio with Music Assistant](sentences/play-radio-with-ma) | Play TuneIn radio using Music Assistant                                               | en, ca, de, es, it, nl, pt, ro                      |
-| [Search Wikipedia](sentences/search-wikipedia)                  | Search Wikipedia using voice and receive a response and image on view enabled devices | en, ca, de, es, pl                                  |
+| [Search Wikipedia](sentences/search-wikipedia)                  | Search Wikipedia using voice and receive a response and image on view enabled devices | en, ca, de, es, it, pl, pt                          |
 | [Show Webpage](sentences/show-webpage)                          | Show your favorite website on your view enabled device                                | en                                                  |
 | [Sound Machine](sentences/sound-machine)                        | Enables the user to play ambient sounds for relaxation or noise cancelation           | en                                                  |
 | [Spell a Word](sentences/spell-a-word)                          | Ask View Assist to spell a word and get a response back with the spelling             | en, ca, de, es, fr, it, pl                          |
