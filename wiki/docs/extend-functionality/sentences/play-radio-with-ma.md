@@ -82,11 +82,13 @@ You can continue using a legacy fixed command, or switch to the new alias-based 
 
 - en: `play Big 102.1`
 - de: `Spiele Big 102.1`
+- it: `metti Big 102.1`
 
 #### Alias-based example
 
 - en: `(start | play | listen) [to] radio [station] {station_name}`
 - de: `[den] (starte | spiele) radio [sender] {station_name} [hören]`
+- it: `(metti | accendi | avvia) [la] radio {station_name}`
 
 If you want to use aliases, your command must include `{station_name}`.
 
