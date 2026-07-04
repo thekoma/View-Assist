@@ -9,7 +9,7 @@ We encourage everyone to share their creations so that others might enjoy what y
 
 | Automations                                                     | Description                                                                           | Languages                                           |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [Alarms Reminders & Timers](sentences/alarms-reminders-timers)  | Allows for an on demand call to create and list alarms, reminders and timers          | en, ca, de, es, fr, pt, sr, sr-Latn                 |
+| [Alarms Reminders & Timers](sentences/alarms-reminders-timers)  | Allows for an on demand call to create and list alarms, reminders and timers          | en, ca, de, es, fr, it, pt, sr, sr-Latn             |
 | [Broadcast](sentences/broadcast)                                | Broadcast messages to other View Assist Satellites                                    | Universal                                           |
 | [Device Alerts](sentences/device-alerts)                        | Automation builder used to do something with a VA satellite when something happens    | Universal                                           |
 | [Device Functions](sentences/device-functions)                  | Extend device functions for media control, modes and repeat speech                    | en, ca, de, es, nl, pl, pt, sr, sr-Latn             |
