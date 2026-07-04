@@ -17,7 +17,7 @@ We encourage everyone to share their creations so that others might enjoy what y
 | [How\'s the Weather](sentences/hows-the-weather)                | Get current conditions and see the forecast on view enabled devices                   | en, ca, de, es, fr, it, nl, pl, pt, ro, sr, sr-Latn |
 | [List Management](sentences/list-management)                    | Add, remove, show items from your shopping or to do list                              | en, ca, de, es, fr, it, pl, ro                      |
 | [Locate a Person](sentences/locate-a-person)                    | Ask for the location of a family member and see it displayed on a map                 | en, ca, de, es, it, pl                              |
-| [Play Music with Music Assistant](sentences/play-music-with-ma) | Play your music media using Music Assistant                                           | en, ca, de, es,fr, nl, pl, pt, ro                   |
+| [Play Music with Music Assistant](sentences/play-music-with-ma) | Play your music media using Music Assistant                                           | en, ca, de, es, it, nl, pl, pt, ro                  |
 | [Play Radio with Music Assistant](sentences/play-radio-with-ma) | Play TuneIn radio using Music Assistant                                               | en, ca, de, es, nl, pt, ro                          |
 | [Search Wikipedia](sentences/search-wikipedia)                  | Search Wikipedia using voice and receive a response and image on view enabled devices | en, ca, de, es, pl                                  |
 | [Show Webpage](sentences/show-webpage)                          | Show your favorite website on your view enabled device                                | en                                                  |
