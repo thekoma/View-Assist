@@ -25,7 +25,7 @@ We encourage everyone to share their creations so that others might enjoy what y
 | [Spell a Word](sentences/spell-a-word)                          | Ask View Assist to spell a word and get a response back with the spelling             | en, ca, de, es, fr, it, pl                          |
 | [Thank You](sentences/thank-you)                                | Show your gratitude and receive a kind reply                                          | en                                                  |
 | [Thermostat Control](sentences/thermostat-control)              | Control the temperature of your thermostat by voice                                   | en, ca, de, es, it, nl, pl, pt                      |
-| [Travel Times by Waze](sentences/travel-times-by-waze)          | Get realtime travel times using Waze                                                  | en, ca, de, es                                      |
+| [Travel Times by Waze](sentences/travel-times-by-waze)          | Get realtime travel times using Waze                                                  | en, ca, de, es, it, pl, pt                          |
 | [View Calendar](sentences/view-calendar)                        | Show your calendar events by requesting by voice                                      | en, pl                                              |
 | [View Camera](sentences/view-camera)                            | Use voice to show your security cameras                                               | en, ca, de, es, pl, pt                              |
 | [What time is it](sentences/what-time-is-it)                    | Get time and date by voice                                                            | en, ca, de, es, fr, it, nl, pl                      |
