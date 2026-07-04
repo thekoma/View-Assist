@@ -132,6 +132,7 @@ Find the station you want to use and copy the station ID exactly as shown in Mus
 
 | Version | Description                                                                                                     |
 | ------- | --------------------------------------------------------------------------------------------------------------- |
+| 1.3.3   | Add Italian translation                                                                                         |
 | 1.3.2   | Additional languages                                                                                            |
 | 1.3.0   | Various fixes                                                                                                   |
 | 1.3.0   | Added alias-based station matching, improved UI configuration, simplified logic, preserved legacy compatibility |
