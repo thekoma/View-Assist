@@ -28,6 +28,6 @@ We encourage everyone to share their creations so that others might enjoy what y
 | [Travel Times by Waze](sentences/travel-times-by-waze)          | Get realtime travel times using Waze                                                  | en, ca, de, es, it, pl, pt                          |
 | [View Calendar](sentences/view-calendar)                        | Show your calendar events by requesting by voice                                      | en, pl                                              |
 | [View Camera](sentences/view-camera)                            | Use voice to show your security cameras                                               | en, ca, de, es, it, pl, pt                          |
-| [What time is it](sentences/what-time-is-it)                    | Get time and date by voice                                                            | en, ca, de, es, fr, it, nl, pl                      |
+| [What time is it](sentences/what-time-is-it)                    | Get time and date by voice                                                            | en, ca, de, es, fr, it, nl, pl, pt                  |
 
 We are always looking for additional translations. Can you help?
